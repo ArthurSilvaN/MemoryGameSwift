@@ -1,2 +1,2 @@
 # MemoryGameSwift
-iOS Application - A card-matching game called Memorize
+iOS Application - A card-matching game Memorize
